@@ -17,7 +17,7 @@ A visually engaging frontend project showcasing smooth animations, responsive de
 
 # 🌐 Live Demo  
 
-🔗 Add your deployed link here (Vercel / Netlify)  
+
 
 ---
 
